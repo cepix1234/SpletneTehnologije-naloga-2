@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* CSS Document */
+
+form.noviKomentarForm{
+	border-style: ridge;
+	width: 400px;
+	margin-left: 30%;
+}
+
+textarea.txtAKomentar{
+	width: 97%;
+}
+
+div.naslovTeme{
+	width: 98%;
+	border: 2px solid #000000;
+	padding: 5px;
+	border-radius: 5px;
+	margin-bottom: 10px;
+}
+
+div.komentar{
+	margin: 10px 5px 0px 5px;
+	border: 2px solid #000000;
+	border-radius: 10px;
+}
+
+img.slikaKomentar{
+	vertical-align: top;
+	margin: 5px;
+	width: 100px;
+	height: 100px;
+}
+
+table.tabelaKomentarja ,td{
+	vertical-align: top;
+}
+
+div.vsebinaKomentar{
+	word-wrap: break-word;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	width: 1175px;
+	border: 2px solid #4F4F4F;
+	border-radius: 10px;
+	background-color: lightgray;
+	padding-left: 5px;
+}

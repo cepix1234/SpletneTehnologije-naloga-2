@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1 {
+	text-align: center;
+	margin-top: -8px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	background:#7E4D17;
+}
+
+div.footer{
+	width: 100%;
+	position: fixed;
+	bottom: 0;
+	border-style: ridge;
+	padding-bottom: 20px;
+	text-align: center;
+}
+
+form.registracijaForm{
+	text-align: left;
+	border-style: ridge;
+	margin-left: 30%;
+	width: 400px;
+}
+
+input{
+	margin-bottom: 5px;
+}
+
+div.PriavaPrijavljen{
+	text-align: left;
+	border-style: ridge;
+	margin-left: 30%;
+	width: 400px;
+}

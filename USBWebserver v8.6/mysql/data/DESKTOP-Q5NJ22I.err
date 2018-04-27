@@ -1,0 +1,14 @@
+2018-04-27 22:18:15 8268 [Note] Plugin 'FEDERATED' is disabled.
+2018-04-27 22:18:15 8268 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-04-27 22:18:15 8268 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2018-04-27 22:18:15 8268 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-04-27 22:18:15 8268 [Note] InnoDB: Not using CPU crc32 instructions
+2018-04-27 22:18:15 8268 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2018-04-27 22:18:15 8268 [Note] InnoDB: Completed initialization of buffer pool
+2018-04-27 22:18:15 8268 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-04-27 22:18:15 2108  InnoDB: Operating system error number 87 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.6/en/operating-system-error-codes.html
+2018-04-27 22:18:15 2108  InnoDB: File name F:\SCHOOL\Faks\School\ST\Domaca naloga\3\USBWebserver v8.6\mysql\data\ib_logfile0
+2018-04-27 22:18:15 2108  InnoDB: File operation call: 'aio read' returned OS error 187.
+2018-04-27 22:18:15 2108  InnoDB: Cannot continue operation.

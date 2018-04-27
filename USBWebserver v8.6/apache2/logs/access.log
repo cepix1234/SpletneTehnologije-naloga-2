@@ -1,0 +1,6 @@
+::1 - - [27/Apr/2018:22:18:39 +0200] "GET / HTTP/1.1" 200 1845
+::1 - - [27/Apr/2018:22:18:40 +0200] "GET /css/stil_Index.css HTTP/1.1" 200 997
+::1 - - [27/Apr/2018:22:18:40 +0200] "GET /css/stil_gumbi.css HTTP/1.1" 200 1301
+::1 - - [27/Apr/2018:22:18:40 +0200] "GET /skripte/gumbiNazaj.js HTTP/1.1" 200 3347
+::1 - - [27/Apr/2018:22:18:40 +0200] "GET /skripte/jquery-3.2.1.min.js HTTP/1.1" 200 86659
+::1 - - [27/Apr/2018:22:18:41 +0200] "GET /favicon.ico HTTP/1.1" 404 209
